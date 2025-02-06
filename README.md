@@ -25,3 +25,10 @@ sudo /opt/lampp/lampp startmysql para inicializar el funcionamiento del MySQL
 
 Una ves instalado se van a la carpeta de XAMPP, encontraran dentro una carpeta llamada htdocs, dentro de esa carpeta copian la carpeta que se subio al repositorio
 y continuan en el minuto 52:37, si es de ayuda revisan todo el video para q comprendan mas.
+
+# Comandos HTML para la pagina por el momento:
+http://localhost/sitioweb/administrador/inicio.php este para entrar a la parte de administracion de la pagina
+
+http://localhost/sitioweb/ para entrar al sitio que todo usuario presenciara
+
+luego de esto ya solo falta la interaccion con los botones generados en cada sitio
